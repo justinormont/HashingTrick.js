@@ -1,0 +1,43 @@
+{
+  "name": "hashingtrick.js",
+  "version": "0.1.0",
+  "description": "Feature hashing, also known as the hashing trick, a fast and space-efficient way of vectorizing features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinormont/HashingTrick.js.git"
+  },
+  "keywords": [
+    "machine learning",
+    "bag of words",
+    "feature vector",
+    "natural language processing",
+    "nlp",
+    "bow",
+    "document classification",
+    "information retrieval",
+    "sparse vector",
+    "ml",
+    "classifier",
+    "regression",
+    "hash",
+    "md5",
+    "document retrieval",
+    "document clustering",
+    "text",
+    "mining",
+    "n-gram",
+    "unigram",
+    "skip-gram",
+    "corpus"
+  ],
+  "author": "Justin Ormont <spammyinboxhere+npm@gmail.com> (https://linkedin.com/in/justinormont)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justinormont/HashingTrick.js/issues"
+  },
+  "homepage": "https://github.com/justinormont/HashingTrick.js#readme"
+}
