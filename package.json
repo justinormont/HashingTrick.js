@@ -1,6 +1,6 @@
 {
   "name": "hashingtrick.js",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Feature hashing, also known as the hashing trick, a fast and space-efficient way of vectorizing features.",
   "main": "index.js",
   "scripts": {
