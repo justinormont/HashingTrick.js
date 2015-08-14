@@ -19,7 +19,6 @@ Implements feature hashing, also known as the hashing trick, a fast and space-ef
   // Hash n-grams
   stringsToHash.forEach(function(str){ featureHasher.add(str); });
   
-  
   console.log('sparseFeatureVector =', featureHasher.sparseFeatureVector());
   
   console.log('Stats:');
