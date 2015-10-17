@@ -1,3 +1,13 @@
+#HashingTrick.js <sup>[![Version Badge][version-image]][npm-url]</sup>
+
+[![dependency status][dependencies-image]][dependencies-url]
+[![dev dependency status][devDependencies-image]][devDependencies-url]
+[![License][license-image]][license-url]
+[![Downloads][downloads-image]][downloads-url]
+
+[![npm badge][npm-badge]][npm-url]
+
+
 # HashingTrick.js
 Implements feature hashing, also known as the hashing trick, a fast and space-efficient way of vectorizing features. Converts tokenized strings in to a sparse feature vector.
 
@@ -49,3 +59,15 @@ Implements feature hashing, also known as the hashing trick, a fast and space-ef
 ## Release History
 
 * 1.0.0 Initial release
+
+[version-image]: http://versionbadg.es/justinormont/hashingtrick.js.svg
+[npm-url]: https://www.npmjs.com/package/hashingtrick.js
+[dependencies-image]: https://david-dm.org/justinormont/hashingtrick.js.svg
+[dependencies-url]: https://david-dm.org/justinormont/hashingtrick.js
+[devDependencies-image]: https://david-dm.org/justinormont/hashingtrick.js/dev-status.svg
+[devDependencies-url]: https://david-dm.org/justinormont/hashingtrick.js#info=devDependencies
+[npm-badge]: https://nodei.co/npm/hashingtrick.js.png?downloads=true
+[license-image]: http://img.shields.io/npm/l/hashingtrick.js.svg
+[license-url]: LICENSE
+[downloads-image]: http://img.shields.io/npm/dm/hashingtrick.js.svg
+[downloads-url]: http://npm-stat.com/charts.html?package=hashingtrick.js
