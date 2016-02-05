@@ -31,6 +31,7 @@ Implements feature hashing, also known as the hashing trick, a fast and space-ef
   
   console.log('sparseFeatureVector =', featureHasher.sparseFeatureVector());
   
+  console.log('\n');
   console.log('Stats:');
   console.log('sparseLength =', featureHasher.sparseLength());
   console.log('length =', featureHasher.length());
@@ -41,6 +42,7 @@ Implements feature hashing, also known as the hashing trick, a fast and space-ef
   
   // -- Output --
   // sparseFeatureVector = { '13799': 1, '247186': 1 }
+  //
   // Stats:
   // sparseLength = 2
   // length = 262144
